@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World.
 You can call me Paint.
 <!--
 **Paint-Thanapat/Paint-Thanapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
