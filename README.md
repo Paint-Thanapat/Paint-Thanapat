@@ -3,6 +3,9 @@
 Unity Game Developer / Game Programmer
 
 You can call me Paint.
+
+----
+![](https://komarev.com/ghpvc/?username=Paint-Thanapat&style=flat-square&label=Visitors)
 <!--
 **Paint-Thanapat/Paint-Thanapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
