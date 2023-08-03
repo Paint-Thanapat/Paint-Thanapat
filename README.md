@@ -21,7 +21,7 @@ Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
 
 #### 2022
 - Game Talent Showcase 2022 Presented by Bitkub ➤ LADY KOVA : The magic disorder. [Video](https://youtu.be/1_0N6UYaXuQ)
-- Final Design Pattern Project ➤ Sai Nua Project. [Video](https://www.youtube.com/watch?v=WEBYt0fmdFo)
+    - Final Design Pattern Project ➤ Sai Nua Project. [Video](https://www.youtube.com/watch?v=WEBYt0fmdFo)
 - Midterm Design Pattern Project ➤ Animal Transport. [Video](https://www.youtube.com/watch?v=VA8EE3rOgQc)
 
 #### 2021
