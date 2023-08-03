@@ -8,18 +8,18 @@ My showreel video is [HERE!](https://www.youtube.com/watch?v=_oCcA9vUefs)
 
 
 ----
-### Education
+### Education EDUCATION
 
 2019 - 2022 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
 
 ----
-### Work Experience
+### Work Experience WORK EXPERIENCE
 
 Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
 - Experimental Wave Function Collapse and Marching Cubes algorithm / Create Game Prototype / Create Particle Effect using Unity Particle System
 ----
-### Projects & Events
+### Projects & Events PROJECTS & EVENTS
 
 #### 2023
 - Personal Project
