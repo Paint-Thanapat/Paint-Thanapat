@@ -30,7 +30,7 @@ Game Programmer (Intern) at RingZero Game Studio. (Jun - Dec 2022)
     - ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 4 Years Experience.
     - ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 3 Years Experience.
 - Create Model for Particle Effect
-    - ![Blender](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 1 Month Experience.
+    - ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp; 1 Month Experience.
 
 ----
 ### PROJECTS & EVENTS
