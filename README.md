@@ -2,7 +2,8 @@
 
 I'm Unity Game Developer / Game Programmer
 
-You can call me just Paint. I'm friendly, not bite xD.;
+You can call me just Paint. I'm friendly, not bite xD.
+
 My showreel video is [HERE!](https://www.youtube.com/watch?v=_oCcA9vUefs)
 
 
