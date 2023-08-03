@@ -14,12 +14,16 @@ You can call me Paint.
 Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
 
 ----
-### Projects & Contest Events 🎯
+### Projects & Events
 #### 2023
 - Ghost Game AP Project. [in Processing..]
 
 #### 2022
-- Game Talent Showcase 2022 Presented by Bitkub | LADY KOVA : The magic disorder. [Video](https://youtu.be/1_0N6UYaXuQ)
+- Game Talent Showcase 2022 Presented by Bitkub
+-     LADY KOVA : The magic disorder. [Video](https://youtu.be/1_0N6UYaXuQ)
+- Global Game Jam 2023 at Rangsit Jam Site | Thorani Sooob. [Video](https://www.youtube.com/watch?v=ckGDauvEDzw)
+- 
+
 
 ----
 ![](https://komarev.com/ghpvc/?username=Paint-Thanapat&style=flat-square&label=Visitors)
