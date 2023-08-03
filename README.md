@@ -20,13 +20,17 @@ Game Programmer (Intern) at RingZero Game Studio. (Jun - Dec 2022)
 
 ----
 ### TECH STACK
-
-- ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp; 4 Years Experience.
-- ![C Sharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp; 4 Years Experience.
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual-Studio&logoColor=5C2D91)&nbsp; 4 Years Experience.
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 3 Years Experience.
-- ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 4 Years Experience.
-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 3 Years Experience.
+- Game Engine
+    - ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp; 4 Years Experience.
+- Languages & Tools
+    - ![C Sharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp; 4 Years Experience.
+    - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual-Studio&logoColor=5C2D91)&nbsp; 4 Years Experience.
+    - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 3 Years Experience.
+- Photo Editor & Create Sprites for Game
+    - ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 4 Years Experience.
+    - ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 3 Years Experience.
+- Create Model for Particle Effect
+    - ![Blender](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 1 Month Experience.
 
 ----
 ### PROJECTS & EVENTS
