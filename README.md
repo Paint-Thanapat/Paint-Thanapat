@@ -1,8 +1,25 @@
-### Hello World.
+### Hello World!
 
 Unity Game Developer / Game Programmer
 
 You can call me Paint.
+
+----
+### Education
+2019 - 2022 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
+
+----
+### Work Experience
+
+Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
+
+----
+### Projects & Contest Events 🎯
+#### 2023
+- Ghost Game AP Project. [in Processing..]
+
+#### 2022
+- Game Talent Showcase 2022 Presented by Bitkub | LADY KOVA : The magic disorder. [Video](https://youtu.be/1_0N6UYaXuQ)
 
 ----
 ![](https://komarev.com/ghpvc/?username=Paint-Thanapat&style=flat-square&label=Visitors)
