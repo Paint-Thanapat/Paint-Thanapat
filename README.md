@@ -22,7 +22,7 @@ Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
 - Personal Project
     - Ghost Game AP Project. [in Processing..]
 - Global Game Jam 2023 at Rangsit Jam Site
-    - Thorani Sooob. [Video](https://www.youtube.com/watch?v=ckGDauvEDzw) / [Download or Play on Browser Here](https://werasilz.itch.io/thorani-sooob)
+    - Thorani Sooob. [Video](https://www.youtube.com/watch?v=ckGDauvEDzw) / [Download or Play on Browser Here (itch.io)](https://werasilz.itch.io/thorani-sooob)
 
 
 #### 2022
