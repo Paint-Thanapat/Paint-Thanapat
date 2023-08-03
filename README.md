@@ -1,25 +1,25 @@
-### Hello World! It's me! Painting But Coding
+### Hello, World! It's me, Painting But Coding!
 
-I'm Unity Game Developer / Game Programmer
+I'm a Unity Game Developer and Game Programmer. You can just call me Paint. I'm friendly and don't bite, xD. I'm interested in developing 3D, VR, or multiplayer games.
 
-You can call me just Paint. I'm friendly, not bite xD.
+Please feel free to ask if you need any help or have any questions about game development. I'm here to assist and support you in any way I can.
 
 My showreel video is [HERE!](https://www.youtube.com/watch?v=_oCcA9vUefs)
 
 
 ----
-### Education EDUCATION
+### EDUCATION
 
 2019 - 2022 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
 
 
 ----
-### Work Experience WORK EXPERIENCE
+### WORK EXPERIENCE
 
 Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
 - Experimental Wave Function Collapse and Marching Cubes algorithm / Create Game Prototype / Create Particle Effect using Unity Particle System
 ----
-### Projects & Events PROJECTS & EVENTS
+### PROJECTS & EVENTS
 
 #### 2023
 - Personal Project
