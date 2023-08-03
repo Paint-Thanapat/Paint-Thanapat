@@ -7,7 +7,7 @@ Please feel free to ask if you need any help or have any questions about game de
 My showreel video is [HERE!](https://www.youtube.com/watch?v=_oCcA9vUefs)
 
 
-<span style="color: violet">■■■■</span>
+<span style="color: purple">■■■■</span>
 ### EDUCATION
 
 2019 - 2022 | Bachelor of Technology Program in Computer Game Multimedia at Rangsit University.
