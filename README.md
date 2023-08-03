@@ -28,10 +28,14 @@ Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
     - Sai Nua Project. [Video](https://www.youtube.com/watch?v=WEBYt0fmdFo)
 - Midterm Design Pattern Project
     - Animal Transport. [Video](https://www.youtube.com/watch?v=VA8EE3rOgQc)
+- Metaverse Project (The Sandbox)
+    - The Mad Mountain. [Video](https://www.youtube.com/watch?v=_hns9TZlAUA)
 
 #### 2021
 - VR Game Project
     - Grab'n Shoot VR. [Video](https://youtu.be/WOkTBJXtwHo)
+- French – Thai Gaming Day #2
+    - LADY KOVA : The magic disorder. [Video](https://youtu.be/1_0N6UYaXuQ)
 - 3D Game Project
     - Anan Horror Game. [Video](https://youtu.be/gApbeT6qsAo)
 - GMTK Game Jam 2021
@@ -45,6 +49,8 @@ Jun - Dec 2022 | Game Programmer (Intern) at RingZero Game Studio.
     - Flapping Rival. [Video](https://www.youtube.com/watch?v=3qfz5rLnCHk)
 
 #### 2019
+- 3D Game Project
+    - Toy Tank Attack.
 - OMEN by HP Gaming Development Bootcamp Program Season 2
     - TukTuk2077 express. [Video](https://youtu.be/50kIg9K64UU)
 
