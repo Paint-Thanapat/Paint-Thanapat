@@ -1,4 +1,4 @@
-### Hello, World! It's me, Painting But Coding!
+## Hello, World! It's me, Painting But Coding!
 
 I'm a Unity Game Developer and Game Programmer. You can just call me Paint. I'm friendly and don't bite, xD. I'm interested in developing 3D, VR, or multiplayer games.
 
