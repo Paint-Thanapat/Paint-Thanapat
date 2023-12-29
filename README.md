@@ -15,8 +15,15 @@ Bachelor of Technology Program in Computer Game Multimedia at Rangsit University
 ----
 ### WORK EXPERIENCE
 
+Game Developer at Rievel Games Co. ltd. (Jun - Dec 2023)
+- Create Character Controller using State Machine
+- Basic Multiplayer Game Model Client-Server and Host-Client
+- Create Particle Effect using Particle System, Shader Graph and VFX Graph
+
 Game Programmer (Intern) at RingZero Game Studio. (Jun - Dec 2022)
-- Experimental Wave Function Collapse and Marching Cubes algorithm / Create Game Prototype / Create Particle Effect using Unity Particle System
+- Experimental Wave Function Collapse and Marching Cubes algorithm
+- Create Particle Effect using Unity Particle System
+- Create Game Prototype
 
 ----
 ### TECH STACK
