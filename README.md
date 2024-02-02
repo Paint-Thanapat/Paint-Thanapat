@@ -46,12 +46,12 @@ Game Programmer (Intern) at RingZero Game Studio. (Jun - Dec 2022)
 
 #### 2024
 - Global Game Jam 2024 at ANT x Dhurakij Pundit University
-    - 🏆 2nd Place.
+    - 🏆 2nd Place Award.
     - Yes, I'm drunk. [Video](https://www.youtube.com/watch?v=yFl2z8ZuZWY) / [Download Here (itch.io)](https://werasilz.itch.io/yes-im-drunk)
 
 #### 2023
 - Global Game Jam 2023 at Rangsit Jam Site
-    - 🏆 Popular Vote.
+    - 🏆 Popular Vote Award.
     - Thorani Sooob. [Video](https://www.youtube.com/watch?v=ckGDauvEDzw) / [Download or Play on Browser Here (itch.io)](https://werasilz.itch.io/thorani-sooob)
 
 
