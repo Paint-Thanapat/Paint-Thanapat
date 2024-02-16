@@ -15,6 +15,8 @@ Bachelor of Technology Program in Computer Game Multimedia at Rangsit University
 ----
 ### WORK EXPERIENCE
 
+Game Developer at View Passion Co. ltd. (Jan 2024 - Present)
+
 Game Developer at Rievel Games Co. ltd. (Jun - Dec 2023)
 - Create Character Controller using State Machine
 - Basic Multiplayer Game Model Client-Server and Host-Client
